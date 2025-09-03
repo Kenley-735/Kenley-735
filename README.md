@@ -9,13 +9,13 @@ Passionate about **JavaScript, React, and modern web design** — with a strong 
 
 ## 🚀 Featured Projects
 
-🌟 **[Portfolio Website](https://kenley-735.github.io/portfolio/)**  
+🌟 **[Portfolio Website](https://kenley-735.github.io/Portfolio_Website/)**  
 My personal portfolio showcasing my projects, skills, and contact info. Built with HTML, CSS, and JavaScript.  
 
 🎮 **[Tic-Tac-Toe Game](https://kenley-735.github.io/tic-tac-toe/)**  
 A modern, responsive Tic-Tac-Toe with sounds, animations, and light/dark mode toggle.  
-
-🧮 **[21 Number Game](https://kenley-735.github.io/21-number-game/)**  
+mber-game
+🧮 **[21 Number Game](https://kenley-735.github.io/21-Number-Game/)**  
 A strategy-based number game against smart AI, built with HTML, CSS, and JavaScript.  
 
 ---
